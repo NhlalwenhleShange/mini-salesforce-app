@@ -37,7 +37,7 @@ REST API → Azure Data Lake Gen2 (Raw JSON) → Python / Pandas (Clean + Valida
 
 - Azure Data Lake Gen2, Azure SQL Database
 - Python, Pandas, SQL
-- Power BI, DAX
+- Power BI
 - Git, GitHub, VS Code
 
 ## Author
